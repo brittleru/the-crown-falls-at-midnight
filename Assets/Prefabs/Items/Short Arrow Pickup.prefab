@@ -79,6 +79,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.05
       objectReference: {fileID: 0}
+    - target: {fileID: 7182280103228071506, guid: 03c1a4f6562dced4aa023653bb68952f, type: 3}
+      propertyPath: ammoType
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7845095177782387731, guid: 03c1a4f6562dced4aa023653bb68952f, type: 3}
       propertyPath: m_LocalScale.y
       value: 0.05
